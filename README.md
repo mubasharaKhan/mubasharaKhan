@@ -1,6 +1,6 @@
 ### Hola, Mubashara Khan here 👩‍💻
 
-I'm deeply interested in AI & Machine Learning.
+I'm deeply interested in DevOps cloud engineering.
 As a student, I am always seeking to learn new skills and gain hands-on experience in these fields. I am excited to connect with industry professionals and explore opportunities to apply my knowledge to real-world projects. 
 Let's connect and collaborate! 🚀
 
@@ -11,9 +11,10 @@ Let's connect and collaborate! 🚀
 </p>
 
 ### More Info 📌
-- 🔭 I’m currently a final year Software Engineer Student at <a href = "https://www.uitu.edu.pk/">UIT University</a> 
-- 🌱 I’m currently learning Automation testing, Advance OOP Concept and How to train AI Models.
-- 👯 I’m looking to collaborate on AI & ML projects.
+- 🔭 I’m currently a final year Software Engineer Student at <a href = "https://www.uitu.edu.pk/">UIT University</a>
+- :office: I'm currently working as a Trainee DevOps Engineer at <a href = "https://uhfsolutions.com/">UHF Solutions Pvt Ltd.</a>
+- 🌱 I’m currently learning AWS Cloud, CI/CD Pipeline implementation.
+- 👯 I’m looking to collaborate on cloud based projects.
 - 📫 How to reach me: mubasharakhan3@gmail.com
 - 💬 Feel free to reach out to me.
 
