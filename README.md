@@ -1,8 +1,8 @@
 ### Hola, Mubashara Khan here 👩‍💻
 
-I'm deeply interested in DevOps cloud engineering.
-As a student, I am always seeking to learn new skills and gain hands-on experience in these fields. I am excited to connect with industry professionals and explore opportunities to apply my knowledge to real-world projects. 
-Let's connect and collaborate! 🚀
+A Software Engineering graduate passionate about DevOps and cloud computing. With hands-on experience in Linux, Ubuntu, server management and administration, problem-solving, Amazon EC2, and access management, I thrive on optimizing cloud infrastructure and automating deployments.
+Driven by continuous learning and innovation, I'm eager to connect with professionals and collaborate on pioneering projects. 
+Let's innovate together! 🚀
 
 ## Connect with me:
 <p align="left">
@@ -11,7 +11,6 @@ Let's connect and collaborate! 🚀
 </p>
 
 ### More Info 📌
-- 🔭 I’m currently a final year Software Engineer Student at <a href = "https://www.uitu.edu.pk/">UIT University</a>
 - :office: I'm currently working as a Trainee DevOps Engineer at <a href = "https://uhfsolutions.com/">UHF Solutions Pvt Ltd.</a>
 - 🌱 I’m currently learning AWS Cloud, CI/CD Pipeline implementation.
 - 👯 I’m looking to collaborate on cloud based projects.
