@@ -11,8 +11,8 @@ Let's innovate together! 🚀
 </p>
 
 ### More Info 📌
-- :office: I'm currently working as a Trainee DevOps Engineer at <a href = "https://uhfsolutions.com/">UHF Solutions Pvt Ltd.</a>
-- 🌱 I’m currently learning AWS Cloud, CI/CD Pipeline implementation.
+- :office: I'm currently working as a Junior DevOps Engineer at <a href = "https://uhfsolutions.com/">UHF Solutions Pvt Ltd.</a>
+- 🌱 I’m currently working on Server Control & Management, Dockerizing Applications and Implementation of CI/CD on multiple projects.
 - 👯 I’m looking to collaborate on cloud based projects.
 - 📫 How to reach me: mubasharakhan3@gmail.com
 - 💬 Feel free to reach out to me.
